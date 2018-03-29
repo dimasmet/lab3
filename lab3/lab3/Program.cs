@@ -10,6 +10,8 @@ namespace lab3
     {
         static void Main(string[] args)
         {
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
         }
     }
 }
